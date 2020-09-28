@@ -69,7 +69,7 @@ body {
         width: 800px;
         height: 500px;
         margin: auto;
-        Padding-top: 400px;
+        Padding-top: 395px;
     }
 
 
@@ -194,4 +194,12 @@ body {
         padding-bottom: 15px;
         margin-bottom: 10px;
         background-color: rgba(51, 51, 51, 0.87);;
+    }
+
+    .contactContainer {
+        width: 800px;
+        margin: auto;
+        background-color: rgba(230, 230, 230, 0.87);
+        text-align: center;
+        padding: 50px;
     }
